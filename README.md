@@ -72,7 +72,7 @@ CSV files -> Python -> MySQL -> Power BI
 - Elderships reorganised during 2010-2025 have no 2010-2025 change.
 - Field size distribution (boxplot) is based on a random ~2% sample of meadow and pastures fields, so it is only shown at national level, not by eldership.
 - Urban elderships without meadows and pastures count as 0% and therefore lower the eldership medians.
-
+- Soil productivity scores are based on 2023 data and are held constant for the whole 2010-2025 period.
 
 ## Repository structure
 ```
