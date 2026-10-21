@@ -47,8 +47,8 @@ CSV files -> Python -> MySQL -> Power BI
 ## Data sources
 - Declared agricultural land by land use group (7 datasets), 2010-2025: VĮ Žemės ūkio duomenų centras, [open data](https://zudc.lt/atviri-duomenys/) via data.gov.lt
 
-<details>
-<summary>All 7 declared land datasets</summary>
+  <details>
+  <summary>All 7 declared land datasets</summary>
 
 - [Meadows and pastures](https://data.gov.lt/dataset/deklaruoti-pievu-ir-ganyklu-plotai)
 - [Cereals](https://data.gov.lt/dataset/deklaruotu-javu-plotu-pasiskirstymas)
@@ -59,11 +59,11 @@ CSV files -> Python -> MySQL -> Power BI
 - [Orchards](https://data.gov.lt/dataset/deklaruoti-sodu-plotai)
 </details>
 
-- [Municipalities (Savivaldybės)](https://lt.wikipedia.org/wiki/Lietuvos_savivaldyb%C4%97s)
-- [Elderships (Seniūnijos)](https://lt.wikipedia.org/wiki/Lietuvos_seni%C5%ABnijos)
+- Municipalities (Savivaldybės) [Wikipwdia](https://lt.wikipedia.org/wiki/Lietuvos_savivaldyb%C4%97s)
+- Elderships (Seniūnijos) [Wikipwdia](https://lt.wikipedia.org/wiki/Lietuvos_seni%C5%ABnijos)
 - Soil productivity scores (2023): [gis.zis.lt](https://gis.zis.lt/arcgis/rest/services/ZIS/Dirv_DR10LT_vertinimas_2023/MapServer), loaded via its REST API
-- Municipality boundaries: [geoBoundaries](https://www.geoboundaries.org/) (LTU ADM2), © OpenStreetMap contributors, ODbL
-- Eldership boundaries: Registrų centras, Address Register, [data.gov.lt](https://get.data.gov.lt/datasets/gov/rc/ar/graseniunija/GraSeniunija)
+- Municipality boundaries: [geoBoundaries, LTU ADM2](https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/LTU/ADM2)
+- - Eldership boundaries: Registrų centras, [data.gov.lt](https://data.gov.lt/datasets/1346/)
 
 ## Methodology notes
 - Meadows and pastures = permanent and temporary grassland declared under the EU Common Agricultural Policy.
