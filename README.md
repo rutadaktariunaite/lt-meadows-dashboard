@@ -50,14 +50,14 @@ CSV files -> Python -> MySQL -> Power BI
   <details>
   <summary>All 7 declared land datasets</summary>
 
-- [Meadows and pastures](https://data.gov.lt/dataset/deklaruoti-pievu-ir-ganyklu-plotai)
-- [Cereals](https://data.gov.lt/dataset/deklaruotu-javu-plotu-pasiskirstymas)
-- [Legumes](https://data.gov.lt/dataset/deklaruotu-ankstiniu-javu-plotu-pasiskirstymas)
-- [Technical crops](https://data.gov.lt/dataset/deklaruotu-techniniu-augalu-plotai)
-- [Potatoes and vegetables](https://data.gov.lt/dataset/deklaruoti-bulviu-ir-darzoviu-plotai)
-- [Berries](https://data.gov.lt/dataset/deklaruoti-uogynu-plotai)
-- [Orchards](https://data.gov.lt/dataset/deklaruoti-sodu-plotai)
-</details>
+  - [Meadows and pastures](https://data.gov.lt/dataset/deklaruoti-pievu-ir-ganyklu-plotai)
+  - [Cereals](https://data.gov.lt/dataset/deklaruotu-javu-plotu-pasiskirstymas)
+  - [Legumes](https://data.gov.lt/dataset/deklaruotu-ankstiniu-javu-plotu-pasiskirstymas)
+  - [Technical crops](https://data.gov.lt/dataset/deklaruotu-techniniu-augalu-plotai)
+  - [Potatoes and vegetables](https://data.gov.lt/dataset/deklaruoti-bulviu-ir-darzoviu-plotai)
+  - [Berries](https://data.gov.lt/dataset/deklaruoti-uogynu-plotai)
+  - [Orchards](https://data.gov.lt/dataset/deklaruoti-sodu-plotai)
+  </details>
 
 - Municipalities (Savivaldybės) [Wikipwdia](https://lt.wikipedia.org/wiki/Lietuvos_savivaldyb%C4%97s)
 - Elderships (Seniūnijos) [Wikipwdia](https://lt.wikipedia.org/wiki/Lietuvos_seni%C5%ABnijos)
