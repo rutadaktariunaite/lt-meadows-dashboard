@@ -9,10 +9,10 @@ Dashboard language: Lithuanian.
 - In the median municipality, meadows and pastures lost **53%** of their area; their share of declared agricultural land fell from **50% to 21%**.
 - Meadows and pastures declined in **451 of 490** elderships with data; **255** of them lost at least half.
 - The higher the soil productivity score, the lower the share of meadows and pastures.
-- Arable land grew by **0.97 million ha**, which is about twice the meadow and pastures loss.
+- Arable land grew by **0.97 million ha**, which is about twice the loss of meadows and pastures.
 
 ## Dashboard
-### 1.Decline of meadows and pastures in Lithuania (Pievų ir ganyklų mažėjimas Lietuvoje)
+### 1. Decline of meadows and pastures in Lithuania (Pievų ir ganyklų mažėjimas Lietuvoje)
 ![National trend](images/01_national_trend.png)
 
 ### 2. Municipalities (Savivaldybės)
@@ -69,9 +69,9 @@ CSV files -> Python -> MySQL -> Power BI
 - Meadows and pastures = permanent and temporary grassland declared under the EU Common Agricultural Policy.
 - Arable land = cereals, legumes, potatoes and vegetables, technical crops.
 - Six municipalities without registered elderships (Alytus, Klaipėda, Panevėžys, Palanga, Neringa, Visaginas) are not drawn on the eldership map.
-- Elderships reorganised during 2010-2025 have no 2010-2025 change
+- Elderships reorganised during 2010-2025 have no 2010-2025 change.
 - Field size distribution (boxplot) is based on a random ~2% sample of meadow and pastures fields, so it is only shown at national level, not by eldership.
-- Urban elderships without meadows and pastures are kept as 0% and therefore lower the eldership medians.
+- Urban elderships without meadows and pastures count as 0% and therefore lower the eldership medians.
 
 
 ## Repository structure
