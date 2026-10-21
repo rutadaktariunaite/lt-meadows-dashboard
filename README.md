@@ -59,8 +59,8 @@ CSV files -> Python -> MySQL -> Power BI
 - [Orchards](https://data.gov.lt/dataset/deklaruoti-sodu-plotai)
 </details>
 
-- [Municipalities (Savivaldybės)] (https://lt.wikipedia.org/wiki/Lietuvos_savivaldyb%C4%97s)
-- [Elderships (Seniūnijos)] (https://lt.wikipedia.org/wiki/Lietuvos_seni%C5%ABnijos)
+- [Municipalities (Savivaldybės)](https://lt.wikipedia.org/wiki/Lietuvos_savivaldyb%C4%97s)
+- [Elderships (Seniūnijos)](https://lt.wikipedia.org/wiki/Lietuvos_seni%C5%ABnijos)
 - Soil productivity scores (2023): [gis.zis.lt](https://gis.zis.lt/arcgis/rest/services/ZIS/Dirv_DR10LT_vertinimas_2023/MapServer), loaded via its REST API
 - Municipality boundaries: [geoBoundaries](https://www.geoboundaries.org/) (LTU ADM2), © OpenStreetMap contributors, ODbL
 - Eldership boundaries: Registrų centras, Address Register, [data.gov.lt](https://get.data.gov.lt/datasets/gov/rc/ar/graseniunija/GraSeniunija)
