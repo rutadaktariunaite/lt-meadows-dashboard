@@ -64,7 +64,6 @@ CSV files -> Python -> MySQL -> Power BI
 - Soil productivity scores (2023): [gis.zis.lt](https://gis.zis.lt/arcgis/rest/services/ZIS/Dirv_DR10LT_vertinimas_2023/MapServer), loaded via its REST API
 - Municipality boundaries: [geoBoundaries, LTU ADM2](https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/LTU/ADM2)
 - Eldership boundaries: Registrų centras, [data.gov.lt](https://data.gov.lt/datasets/1346/)
-- test
 
 ## Methodology notes
 - Meadows and pastures = permanent and temporary grassland declared under the EU Common Agricultural Policy.
