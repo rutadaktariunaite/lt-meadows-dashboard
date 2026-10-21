@@ -1,6 +1,6 @@
 # Decline of Meadows and Pastures in Lithuania, 2010-2025
 
-Built a Power BI dashboard to analyse agricultural areas declared under the EU Common Agricultural Policy in Lithuania 2010-2025, at national, municipality and eldership (seniūnija) level, with a focus on meadows and pastures.
+Built a Power BI dashboard to analyse agricultural areas declared under the EU Common Agricultural Policy in Lithuania 2010-2025, at national, municipality (savivaldybė) and eldership (seniūnija) level, with a focus on meadows and pastures.
 
 Dashboard language: Lithuanian.
 
